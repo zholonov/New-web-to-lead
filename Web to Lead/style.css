@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+
+}
+.container{
+     width: 100%;
+     max-width: 1200px;
+     margin: 0 auto;
+ }
+.pic1{
+    width: 100%;
+    height: 100vh;
+    background: url("./images/intro")
+    center no-repeat;
+    background-size: cover;
+}
+.first_name1{
+    color: whitesmoke;
+    size: 50px;
+}
